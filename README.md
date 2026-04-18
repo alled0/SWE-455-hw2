@@ -77,22 +77,28 @@ This project is a simple event-driven backend for estimating pi. The receiver se
 ## Screenshots
 
 1. Architecture
+
 ![Architecture](maas/screenshots/architecture.jpg)
 
 2. Terraform init
 ![Terraform init](maas/screenshots/01-terraform-init.png)
 
 3. Docker image
+
 ![Docker image](maas/screenshots/02-docker-image.png)
 
 4. Terraform apply done
+
 ![Terraform apply done](maas/screenshots/03-terraform-apply-done.png)
 
 5. Test request
+
 ![Test request](maas/screenshots/04-test-request.png)
 
 6. Firestore result
+
 ![Firestore result](maas/screenshots/05-firestore-result.png)
 
 7. Load test result
+
 ![Load test result](maas/screenshots/06-load-test-50-accepted.png)
