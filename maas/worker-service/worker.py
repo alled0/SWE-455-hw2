@@ -8,7 +8,7 @@ from google.cloud import firestore
 
 
 app = Flask(__name__)
-db = firestore.Client()
+db = firestore.Client(database="swe-455")
 
 
 def estimate_pi(n):
