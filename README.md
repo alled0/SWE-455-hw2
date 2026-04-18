@@ -76,11 +76,12 @@ This project is a simple event-driven backend for estimating pi. The receiver se
 
 ## Screenshots
 
-1. Architecture
+1. Architecture:
 
 ![Architecture](maas/screenshots/architecture.jpg)
 
-2. Terraform init
+2. Terraform init:
+
 ![Terraform init](maas/screenshots/01-terraform-init.png)
 
 3. Docker image
