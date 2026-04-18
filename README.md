@@ -75,19 +75,19 @@ This project is a simple event-driven backend for estimating pi. The receiver se
 ## Screenshots
 
 1. Terraform init
-![Terraform init](screenshots/01-terraform-init.png)
+![Terraform init](maas/screenshots/01-terraform-init.png)
 
 2. Docker image
-![Docker image](screenshots/02-docker-image.png)
+![Docker image](maas/screenshots/02-docker-image.png)
 
 3. Terraform apply done
-![Terraform apply done](screenshots/03-terraform-apply-done.png)
+![Terraform apply done](maas/screenshots/03-terraform-apply-done.png)
 
 4. Test request
-![Test request](screenshots/04-test-request.png)
+![Test request](maas/screenshots/04-test-request.png)
 
 5. Firestore result
-![Firestore result](screenshots/05-firestore-result.png)
+![Firestore result](maas/screenshots/05-firestore-result.png)
 
 6. Load test result
-![Load test result](screenshots/06-load-test-50-accepted.png)
+![Load test result](maas/screenshots/06-load-test-50-accepted.png)
