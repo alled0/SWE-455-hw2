@@ -19,6 +19,7 @@ maas/
   terraform/
     main.tf
   screenshots/
+    architecture.jpg
     01-terraform-init.png
     02-docker-image.png
     03-terraform-apply-done.png
@@ -61,6 +62,7 @@ python .\test.py
 
 ## Screenshots Included
 
+- `architecture.jpg`
 - `01-terraform-init.png`
 - `02-docker-image.png`
 - `03-terraform-apply-done.png`
@@ -74,20 +76,23 @@ This project is a simple event-driven backend for estimating pi. The receiver se
 
 ## Screenshots
 
-1. Terraform init
+1. Architecture
+![Architecture](maas/screenshots/architecture.jpg)
+
+2. Terraform init
 ![Terraform init](maas/screenshots/01-terraform-init.png)
 
-2. Docker image
+3. Docker image
 ![Docker image](maas/screenshots/02-docker-image.png)
 
-3. Terraform apply done
+4. Terraform apply done
 ![Terraform apply done](maas/screenshots/03-terraform-apply-done.png)
 
-4. Test request
+5. Test request
 ![Test request](maas/screenshots/04-test-request.png)
 
-5. Firestore result
+6. Firestore result
 ![Firestore result](maas/screenshots/05-firestore-result.png)
 
-6. Load test result
+7. Load test result
 ![Load test result](maas/screenshots/06-load-test-50-accepted.png)
